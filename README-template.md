@@ -13,7 +13,6 @@ This is a solution to the [Product preview card component challenge on Frontend 
   - [What I thought](#what-i-thought)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -44,8 +43,6 @@ I built this by creating the desktop version and then adding in a media query fo
 - CSS custom properties
 - Flexbox
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I thought
 
 This was a great quick project to refresh html and css skills.
@@ -54,6 +51,5 @@ This was a great quick project to refresh html and css skills.
 
 - Twitter - [@lalysi1](https://www.twitter.com/lalysi1)
 
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
 
